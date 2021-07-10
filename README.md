@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently studying computer engineering 
 - ⚡ Fun fact: working on AI and ML algorhitms, web developing are my favorites
-- 📫 How to reach me: I can get your messages on [linkdin](https://www.linkedin.com/in/hosseinbahak/) and of course Gmail :)
+- 📫 I can get your messages on [linkdin](https://www.linkedin.com/in/hosseinbahak/) and of course Gmail :)
