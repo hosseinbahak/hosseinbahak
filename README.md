@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 - 🌱 I’m currently studying computer engineering 
-- ⚡ Fun fact: working on AI and ML algorhitms, web developing are my favorites
+- ⚡ Fun fact: working on AI, ML algorhitms and web developing are my favorites
 - 📫 I can get your messages on [linkdin](https://www.linkedin.com/in/hosseinbahak/) and of course Gmail :)
